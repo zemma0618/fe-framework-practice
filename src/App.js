@@ -9,6 +9,7 @@ function App() {
         <p>
           Edit <code>src/App.js</code> and save to reload.
         </p>
+        <span>dev 브랜치 생성 후 Pull Request 테스트 예정</span>
         <a
           className="App-link"
           href="https://reactjs.org"
